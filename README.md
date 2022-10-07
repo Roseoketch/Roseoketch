@@ -9,4 +9,4 @@ Hello there 👋 I am <a href="roseoketch.github.io/portfolio/">Rose Oketch</a>!
     </div>
 </div>
 
-![Rose's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=james_muriithi&theme=gotham&layout=compact)
+![SomKoder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Oketch&theme=gotham&layout=compact)
